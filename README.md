@@ -10,6 +10,7 @@ My bot send stock_news or coin_news to me
 3. Run main.py
 
 ### Installing
+
 ```
 pip install bs4
 pip install schedule
