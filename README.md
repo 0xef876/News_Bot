@@ -1,7 +1,7 @@
 # News_Bot
 My bot send stock_news or coin_news to me 
 
-<img src="ex (1).png" width="200" height="400"/><img src="ex (2).png" width="200" height="400"/><img src="ex (3).png" width="200" height="400"/>
+<img src="python/ex (1).png" width="200" height="400"/><img src="python/ex (2).png" width="200" height="400"/><img src="python/ex (3).png" width="200" height="400"/>
 
 ## Getting Started
 
